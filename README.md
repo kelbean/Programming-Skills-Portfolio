@@ -1,7 +1,9 @@
 # 💫 Programming-Skills-Portfolio
 
 ## ☄️ Introduction
-  
+
+
+       
 
 Hello there! I see that you have stumbled upon the wild lands of my programming portfolio. Don't worry, you are very much welcome here!
 
@@ -19,7 +21,8 @@ Anyways, with that said, that'll be enough introduction from me. Let's go over w
 
 ## ☄️ Description
 
- 
+     
+     
 
 This repository contains the solutions I developed to the 10 programming exercises for our first assessment. Each exercise is designed to test our knowledge of the fundamental techniques in programming and contains content we've learned in previous sessions. Here's the list of exercises included:
 
