@@ -17,10 +17,9 @@ Let me start by introducing myself:
 
 Anyways, with that said, that'll be enough introduction from me. Let's go over what's exactly in this bizarre repository of mine.
 <br>
-
 <br>
 
-## ☄️ Description
+## ✨ Description
 
     
 <p align="justify"> This repository contains the solutions I developed to the 10 programming exercises for our first assessment. Each exercise is designed to test our knowledge of the fundamental techniques in programming and contains content we've learned in previous sessions. Here's the list of exercises included: </p>
