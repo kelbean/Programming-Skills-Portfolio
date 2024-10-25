@@ -1,8 +1,10 @@
-# 💫 Programming-Skills-Portfolio
-                      
+# 💫 Programming Skills Portfolio
+
+
+              
 ![ezgif-6-42f918ce09](https://github.com/user-attachments/assets/a40bf03d-9f07-4506-a2e4-07945f24508d)
 
-***
+
 
 ## ☄️ Introduction
 
@@ -17,8 +19,6 @@ Anyways, with that said, that'll be enough introduction from me. Let's go over w
 <br>
 
 <br>
-
-***
 
 ## ☄️ Description
 
