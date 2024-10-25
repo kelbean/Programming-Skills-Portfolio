@@ -1,6 +1,7 @@
 # 💫 Programming-Skills-Portfolio
 
-## ☄️ Introduction
+
+          
 
 ***
 
@@ -13,7 +14,12 @@
 ***
 
 
-       
+
+## ☄️ Introduction
+
+
+
+   
 
 Hello there! I see that you have stumbled upon the wild lands of my programming portfolio. Don't worry, you are very much welcome here!
 
@@ -28,6 +34,14 @@ Anyways, with that said, that'll be enough introduction from me. Let's go over w
 
 
 
+
+***
+
+
+
+
+
+             
 
 ## ☄️ Description
 
