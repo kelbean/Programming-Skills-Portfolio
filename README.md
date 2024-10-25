@@ -1,14 +1,10 @@
 # 💫 Programming-Skills-Portfolio
 
-
-          
-
+                            
 
 
-      
+                                       
 ![ezgif-6-42f918ce09](https://github.com/user-attachments/assets/a40bf03d-9f07-4506-a2e4-07945f24508d)
-
-
 
        
 ***
